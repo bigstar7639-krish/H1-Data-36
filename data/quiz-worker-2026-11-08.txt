@@ -10,3 +10,6 @@ A: Telepathy - Entertainment: Video Games
 Auto Quiz - Bird 🧠
 Q: Which computer hardware device provides an interface for all other connected devices to communicate?
 A: Motherboard - Science: Computers
+Auto Quiz - Animal 🧠
+Q: What ingredient is NOT used to craft a cake in Minecraft?
+A: Bread - Entertainment: Video Games
