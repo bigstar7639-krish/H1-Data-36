@@ -82,3 +82,6 @@ A: Charles Guiteau - History
 Auto Quiz - Wisdom 🧠
 Q: Which Pokemon is #39 in the National Pokedex?
 A: Jigglypuff - Entertainment: Board Games
+Auto Quiz - Power 🧠
+Q: What is the name of Niccolò Machiavelli's work that argued effective leaders needed to crush their opponents at all costs?
+A: The Prince - Politics
