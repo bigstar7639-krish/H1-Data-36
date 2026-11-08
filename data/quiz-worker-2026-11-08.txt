@@ -79,3 +79,6 @@ A: $180 - Entertainment: Board Games
 Auto Quiz - Truth 🧠
 Q: Who assassinated President James A. Garfield?
 A: Charles Guiteau - History
+Auto Quiz - Wisdom 🧠
+Q: Which Pokemon is #39 in the National Pokedex?
+A: Jigglypuff - Entertainment: Board Games
