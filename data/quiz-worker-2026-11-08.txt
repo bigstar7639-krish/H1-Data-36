@@ -7,3 +7,6 @@ A: Mario Party 4 - Entertainment: Video Games
 Auto Quiz - Sun 🧠
 Q: In the Pokémon series, what is Palkia's hidden ability?
 A: Telepathy - Entertainment: Video Games
+Auto Quiz - Bird 🧠
+Q: Which computer hardware device provides an interface for all other connected devices to communicate?
+A: Motherboard - Science: Computers
