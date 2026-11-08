@@ -85,3 +85,6 @@ A: Jigglypuff - Entertainment: Board Games
 Auto Quiz - Power 🧠
 Q: What is the name of Niccolò Machiavelli's work that argued effective leaders needed to crush their opponents at all costs?
 A: The Prince - Politics
+Auto Quiz - Luck 🧠
+Q: How many copies have Metallica album "Metallica" (A.K.A The Black Album) sold worldwide (in Millions of Copies)?
+A: 20.5 - Entertainment: Music
