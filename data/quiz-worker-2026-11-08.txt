@@ -46,3 +46,6 @@ A: Texas - Geography
 Auto Quiz - Science 🧠
 Q: In which classic novel is there a character named Homer Simpson?
 A: The Day of the Locust - Entertainment: Books
+Auto Quiz - History 🧠
+Q: Which round does a WW2 M1 Garand fire?
+A: .30-06 - Science: Gadgets
